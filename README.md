@@ -7,7 +7,9 @@ On Cover Page  Page:--
 1. On the Action button  by selecting the type of Page Navigation
 
 	a.Performance Analysis
+
 	b. Labor-Cost Analysis
+
 	c. Discount and Sales Analysis
 
 On Performance Analysis Page:--
