@@ -6,11 +6,9 @@ On Cover Page  Page:--
 
 1. On the Action button  by selecting the type of Page Navigation
 
-	a.Performance Analysis
-
-	b. Labor-Cost Analysis
-
-	c. Discount and Sales Analysis
+	1.Performance Analysis
+	2. Labor-Cost Analysis
+    	3. Discount and Sales Analysis
 
 On Performance Analysis Page:--
 1. Find the Total SalesPrice  and place in number card
