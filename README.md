@@ -3,11 +3,12 @@
 Performance Analysis of Automobile Industry
 
 On Cover Page  Page:--
-
-1. On the Action button  by selecting the type of Page Navigation
+On the Action button  by selecting the type of Page Navigation
 
 1.Performance Analysis
+
 2. Labor-Cost Analysis
+   
 3. Discount and Sales Analysis
 
 On Performance Analysis Page:--
