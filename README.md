@@ -26,11 +26,15 @@ On Performance Analysis Page:--
 5. Create table of ClientName, SalesPrice and TotalDiscount.
 6. On the top create Slicer of ReportingYear.
 
+On Labor cost Analysis Page:--
+
 1. Which ClientName is having the HighestLabour Cost.
 2. Show the Visual of LaborCost by Year.
 3. Give me the analysis of LowestLabor Cost by Client Name.
 4. With respect to Country show me LaborCost.
 5. Show the visual of LaborCost by VehicleType.
+
+On Discount and sales Analysis Page:--
 
 1. What is the TotalDiscount by Mode on Chatnos1? 
 2. Show me Visual of TotalDiscount by Make on Chartnos 2
